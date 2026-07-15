@@ -30,18 +30,40 @@ The project analyzes Superstore sales data to uncover business insights related 
 5. Business Insights & Visualization
 
 ## Dashboard Pages
+## 📊 Dashboard Pages
 
 ### Executive Dashboard
 
 ![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
 
+**Features**
+- KPI Cards
+- Monthly Sales Trend
+- Monthly Profit Trend
+- Sales by Category
+- Sales by Region
+
 ### Product Analysis
 
-![Product Analysis](Dashboard_Screenshots/Product_Analysis.png)
+![Product Analysis](Dashboard_Screenshots/Product_Analysis_Dashboard.png)
+
+**Features**
+- Top 10 Products by Sales
+- Bottom 10 Products by Profit
+- Sales by Sub-Category
+- Profit by Sub-Category
+- Sales vs Profit Analysis
 
 ### Customer & Shipping Analysis
 
-![Customer & Shipping Analysis](Dashboard_Screenshots/Customer_Shipping_Analysis.png)
+![Customer & Shipping Analysis](Dashboard_Screenshots/Customer_and_shipping_Analysis_Dashboard.png)
+
+**Features**
+- Sales by State
+- Sales by Customer Segment
+- Orders by Ship Mode
+- Average Order Value by Segment
+
 
 ### Executive Dashboard
 - KPI Cards
