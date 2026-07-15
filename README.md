@@ -32,6 +32,18 @@ The project analyzes Superstore sales data to uncover business insights related 
 ## Dashboard Pages
 
 ### Executive Dashboard
+
+![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+
+### Product Analysis
+
+![Product Analysis](Dashboard_Screenshots/Product_Analysis.png)
+
+### Customer & Shipping Analysis
+
+![Customer & Shipping Analysis](Dashboard_Screenshots/Customer_Shipping_Analysis.png)
+
+### Executive Dashboard
 - KPI Cards
 - Monthly Sales Trend
 - Monthly Profit Trend
