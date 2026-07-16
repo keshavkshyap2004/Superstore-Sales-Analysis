@@ -64,28 +64,6 @@ The project analyzes Superstore sales data to uncover business insights related 
 - Orders by Ship Mode
 - Average Order Value by Segment
 
-
-### Executive Dashboard
-- KPI Cards
-- Monthly Sales Trend
-- Monthly Profit Trend
-- Sales by Category
-- Sales by Region
-
-### Product Analysis
-- Top 10 Products by Sales
-- Bottom 10 Products by Profit
-- Sales by Sub-Category
-- Profit by Sub-Category
-- Sales vs Profit Analysis
-
-### Customer & Shipping Analysis
-- Sales by State
-- Sales by Customer Segment
-- Orders by Ship Mode
-- Average Order Value by Segment
-
-
 ## Key Business Insights
 
 - Technology category generated the highest sales.
